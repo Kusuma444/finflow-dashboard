@@ -111,3 +111,23 @@ Contributions are welcome! If you find a bug or want to suggest a new feature, f
 2. Create a new branch.
 3. Make your changes.
 4. Submit a pull request with a description of your changes.
+   ## Screenshots
+
+**Dashboard Overview**
+
+![Dashboard](./dashboard.png)
+
+**Transactions Page**
+
+![Transactions](./transactions.png)
+
+**Insights Page**
+
+![Insights](./insights.png)
+
+---
+
+## Author
+
+**Kusuma**
+GitHub: [@Kusuma444](https://github.com/Kusuma444)
